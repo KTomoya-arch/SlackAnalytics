@@ -1,0 +1,371 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "6875f728-d258-4a3f-9e17-732fa0f53552",
+            "type": "message",
+            "text": "はるきさんはまだこれやってないと思うんでやっておきましょー\n\n<https://tech-essentials.work/courses/51>\n<https://tech-essentials.work/courses/51/tab/practice>",
+            "user": "UEAENGTNY",
+            "ts": "1615385581.011900",
+            "team": "TE9TCAKGQ",
+            "attachments": [
+                {
+                    "service_name": "TechEssentials",
+                    "title": "ポートフォリオの作り方 | TechEssentials",
+                    "title_link": "https://tech-essentials.work/courses/51",
+                    "text": "Twitterクローン、メルカリクローンを作ろうとしているそこのあなたへ。",
+                    "fallback": "TechEssentials: ポートフォリオの作り方 | TechEssentials",
+                    "image_url": "https://tech-essentials.work/assets/ogp-c2c98aec65fd6a09421e344afbf52d6aaf0d93e9e1aad34027dc4d90897a76e7.png",
+                    "from_url": "https://tech-essentials.work/courses/51",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 11864,
+                    "id": 1,
+                    "original_url": "https://tech-essentials.work/courses/51"
+                },
+                {
+                    "service_name": "TechEssentials",
+                    "title": "ポートフォリオの作り方 | TechEssentials",
+                    "title_link": "https://tech-essentials.work/courses/51/tab/practice",
+                    "text": "Twitterクローン、メルカリクローンを作ろうとしているそこのあなたへ。",
+                    "fallback": "TechEssentials: ポートフォリオの作り方 | TechEssentials",
+                    "image_url": "https://tech-essentials.work/assets/ogp-c2c98aec65fd6a09421e344afbf52d6aaf0d93e9e1aad34027dc4d90897a76e7.png",
+                    "from_url": "https://tech-essentials.work/courses/51/tab/practice",
+                    "image_width": 250,
+                    "image_height": 250,
+                    "image_bytes": 11864,
+                    "id": 2,
+                    "original_url": "https://tech-essentials.work/courses/51/tab/practice"
+                }
+            ],
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "WXRj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "はるきさんはまだこれやってないと思うんでやっておきましょー\n\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://tech-essentials.work/courses/51"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "\n"
+                                },
+                                {
+                                    "type": "link",
+                                    "url": "https://tech-essentials.work/courses/51/tab/practice"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "thread_ts": "1615385581.011900",
+            "reply_count": 3,
+            "reply_users_count": 2,
+            "latest_reply": "1615386341.014400",
+            "reply_users": [
+                "U017F7WQKKM",
+                "UEAENGTNY"
+            ],
+            "subscribed": false
+        },
+        {
+            "client_msg_id": "38d791a6-3d01-4b20-a936-61fdfeb85db5",
+            "type": "message",
+            "text": "なんか吹っ切れた感じがありますね笑",
+            "user": "UEAENGTNY",
+            "ts": "1615385531.011000",
+            "team": "TE9TCAKGQ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "iIj",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "なんか吹っ切れた感じがありますね笑"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "client_msg_id": "edc4cd5e-0dc1-4f35-9bfa-f4baf524f7db",
+            "type": "message",
+            "text": "ありがとうございます！\nニートがこんなポジティブに感じたのは人生初ですww",
+            "user": "U017F7WQKKM",
+            "ts": "1615385469.010700",
+            "team": "TE9TCAKGQ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "627Y",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ありがとうございます！\nニートがこんなポジティブに感じたのは人生初ですww"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "client_msg_id": "621ca979-7744-4216-ae80-4ed922cfcca7",
+            "type": "message",
+            "text": "ニートが増えてきた気がする",
+            "user": "UEAENGTNY",
+            "ts": "1615385428.010000",
+            "team": "TE9TCAKGQ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "HaCz",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ニートが増えてきた気がする"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "client_msg_id": "2d1212ce-ec7e-485e-9ce2-e7305d3fa66a",
+            "type": "message",
+            "text": "ニート！笑　お帰りなさい！",
+            "user": "U011L4JS3L3",
+            "ts": "1615385074.009300",
+            "team": "TE9TCAKGQ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "Vjo",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "ニート！笑　お帰りなさい！"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "client_msg_id": "51e70625-abe6-43ef-bfc1-712108719c11",
+            "type": "message",
+            "text": "お帰りなさい笑\n\nがんばりましょ〜！！",
+            "user": "UEAENGTNY",
+            "ts": "1615384958.008700",
+            "team": "TE9TCAKGQ",
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "8Nf",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "お帰りなさい笑\n\nがんばりましょ〜！！"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "client_msg_id": "9d6c2011-48bd-4446-84b2-0951dffd5775",
+            "type": "message",
+            "text": "すこしの間、幽霊部員になってました(T-T)\n再開します！そして最近プチニート的なやつになったのでそれなりに時間も捻出できそうです笑\n一先ず、インスタクローン作り直してる",
+            "user": "U017F7WQKKM",
+            "ts": "1615384488.008000",
+            "team": "TE9TCAKGQ",
+            "edited": {
+                "user": "U017F7WQKKM",
+                "ts": "1615384571.000000"
+            },
+            "blocks": [
+                {
+                    "type": "rich_text",
+                    "block_id": "f9jXP",
+                    "elements": [
+                        {
+                            "type": "rich_text_section",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "すこしの間、幽霊部員になってました(T-T)\n再開します！そして最近プチニート的なやつになったのでそれなりに時間も捻出できそうです笑\n一先ず、インスタクローン作り直してる"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367752.002600",
+            "user": "U01QAR3ND29",
+            "text": "<@U01QAR3ND29>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367752.002400",
+            "user": "U01QZ0TRMQ8",
+            "text": "<@U01QZ0TRMQ8>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367752.002200",
+            "user": "U01PS2E67DL",
+            "text": "<@U01PS2E67DL>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.002000",
+            "user": "U01NS6GSPA9",
+            "text": "<@U01NS6GSPA9>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.001800",
+            "user": "U01MAT4EU6B",
+            "text": "<@U01MAT4EU6B>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.001600",
+            "user": "U01M25ENLK0",
+            "text": "<@U01M25ENLK0>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.001400",
+            "user": "U01L7QF8WNR",
+            "text": "<@U01L7QF8WNR>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.001200",
+            "user": "U01M4DV3CF2",
+            "text": "<@U01M4DV3CF2>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.001000",
+            "user": "U01K0PWD134",
+            "text": "<@U01K0PWD134>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.000800",
+            "user": "U01GPM5FSPP",
+            "text": "<@U01GPM5FSPP>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.000600",
+            "user": "U015A2R3L6Q",
+            "text": "<@U015A2R3L6Q>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.000400",
+            "user": "U011VVBV674",
+            "text": "<@U011VVBV674>さんがチャンネルに参加しました",
+            "inviter": "U01QF543LGK"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1615367751.000200",
+            "user": "U01QF543LGK",
+            "text": "<@U01QF543LGK>さんがチャンネルに参加しました"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1611156205.000200",
+            "user": "U01HF9X6UET",
+            "text": "<@U01HF9X6UET>さんがチャンネルに参加しました"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1610984126.000200",
+            "user": "U017WULE4AX",
+            "text": "<@U017WULE4AX>さんがチャンネルに参加しました"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1608470896.000200",
+            "user": "U01HACPAUM8",
+            "text": "<@U01HACPAUM8>さんがチャンネルに参加しました"
+        },
+        {
+            "type": "message",
+            "subtype": "channel_join",
+            "ts": "1607777771.000200",
+            "user": "U01GM6WR59B",
+            "text": "<@U01GM6WR59B>さんがチャンネルに参加しました"
+        }
+    ],
+    "has_more": false,
+    "is_limited": true,
+    "pin_count": 0,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0
+}
